@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.eql.MySOAPProject.MySOAPTest" time="4.496" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+    <property name="java.class.path" value="C:\Users\kouchtar\eclipse-workspace\MySOAPProject\target\test-classes;C:\Users\kouchtar\eclipse-workspace\MySOAPProject\target\classes;C:\Program Files\Java\jdk1.8.0_171\lib\tools.jar;C:\Program Files\SmartBear\SoapUI-5.4.0\lib\out-app-analytics-provider-5.4.0.jar;C:\Program Files\SmartBear\SoapUI-5.4.0\bin\soapui-5.4.0.jar;C:\Program Files\SmartBear\SoapUI-5.4.0\lib\proxy-vole-20131209.jar;C:\Program Files\SmartBear\SoapUI-5.4.0\lib\xbean-fixed-2.4.0.jar;C:\Program Files\SmartBear\SoapUI-5.4.0\lib\jms-1.1.jar;C:\Users\kouchtar\.m2\repository\log4j\log4j\1.2.12\log4j-1.2.12.jar;C:\Users\kouchtar\.m2\repository\com\fifesoft\rsyntaxtextarea\1.4.0\rsyntaxtextarea-1.4.0.jar;C:\Users\kouchtar\.m2\repository\com\jgoodies\jgoodies-forms\1.6.0\jgoodies-forms-1.6.0.jar;C:\Users\kouchtar\.m2\repository\com\jgoodies\jgoodies-common\1.4.0\jgoodies-common-1.4.0.jar;C:\Users\kouchtar\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\kouchtar\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\kouchtar\.m2\repository\commons-cli\commons-cli\1.2\commons-cli-1.2.jar;C:\Users\kouchtar\.m2\repository\commons-io\commons-io\1.3.2\commons-io-1.3.2.jar;C:\Users\kouchtar\.m2\repository\org\apache\httpcomponents\httpclient\4.3.4\httpclient-4.3.4.jar;C:\Users\kouchtar\.m2\repository\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\kouchtar\.m2\repository\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\kouchtar\.m2\repository\commons-codec\commons-codec\1.6\commons-codec-1.6.jar;C:\Users\kouchtar\.m2\repository\org\reflections\reflections\0.9.8\reflections-0.9.8.jar;C:\Users\kouchtar\.m2\repository\com\google\guava\guava\11.0.2\guava-11.0.2.jar;C:\Users\kouchtar\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\kouchtar\.m2\repository\javassist\javassist\3.12.1.GA\javassist-3.12.1.GA.jar;C:\Users\kouchtar\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\kouchtar\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Users\kouchtar\.m2\repository\org\codehaus\groovy\groovy-all\2.4.5\groovy-all-2.4.5.jar;C:\Users\kouchtar\.m2\repository\org\slf4j\slf4j-log4j12\1.5.6\slf4j-log4j12-1.5.6.jar;C:\Users\kouchtar\.m2\repository\org\slf4j\slf4j-api\1.5.6\slf4j-api-1.5.6.jar;C:\Users\kouchtar\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.47\bcprov-jdk15on-1.47.jar;C:\Users\kouchtar\.m2\repository\wsdl4j\wsdl4j\1.6.2\wsdl4j-1.6.2.jar;C:\Users\kouchtar\.m2\repository\org\apache\flex\blazeds\flex-messaging-core\4.7.1\flex-messaging-core-4.7.1.jar;C:\Users\kouchtar\.m2\repository\org\apache\flex\blazeds\flex-messaging-common\4.7.1\flex-messaging-common-4.7.1.jar;C:\Users\kouchtar\.m2\repository\xalan\xalan\2.6.0\xalan-2.6.0.jar;C:\Users\kouchtar\.m2\repository\xmlunit\xmlunit\1.4\xmlunit-1.4.jar;C:\Users\kouchtar\.m2\repository\commons-collections\commons-collections\3.1\commons-collections-3.1.jar;C:\Users\kouchtar\.m2\repository\commons-lang\commons-lang\2.1\commons-lang-2.1.jar;C:\Users\kouchtar\.m2\repository\javax\mail\mail\1.4\mail-1.4.jar;C:\Users\kouchtar\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar;C:\Users\kouchtar\.m2\repository\commons-beanutils\commons-beanutils\1.7.0\commons-beanutils-1.7.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_171\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\kouchtar\AppData\Local\Temp\surefire7770630737455910635\surefirebooter2273306991374501381.jar C:\Users\kouchtar\AppData\Local\Temp\surefire7770630737455910635 2021-11-26T16-17-58_931-jvmRun1 surefire3295756623670452875tmp surefire_06758105561625205101tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\kouchtar\eclipse-workspace\MySOAPProject\target\test-classes;C:\Users\kouchtar\eclipse-workspace\MySOAPProject\target\classes;C:\Program Files\Java\jdk1.8.0_171\lib\tools.jar;C:\Program Files\SmartBear\SoapUI-5.4.0\lib\out-app-analytics-provider-5.4.0.jar;C:\Program Files\SmartBear\SoapUI-5.4.0\bin\soapui-5.4.0.jar;C:\Program Files\SmartBear\SoapUI-5.4.0\lib\proxy-vole-20131209.jar;C:\Program Files\SmartBear\SoapUI-5.4.0\lib\xbean-fixed-2.4.0.jar;C:\Program Files\SmartBear\SoapUI-5.4.0\lib\jms-1.1.jar;C:\Users\kouchtar\.m2\repository\log4j\log4j\1.2.12\log4j-1.2.12.jar;C:\Users\kouchtar\.m2\repository\com\fifesoft\rsyntaxtextarea\1.4.0\rsyntaxtextarea-1.4.0.jar;C:\Users\kouchtar\.m2\repository\com\jgoodies\jgoodies-forms\1.6.0\jgoodies-forms-1.6.0.jar;C:\Users\kouchtar\.m2\repository\com\jgoodies\jgoodies-common\1.4.0\jgoodies-common-1.4.0.jar;C:\Users\kouchtar\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\kouchtar\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\kouchtar\.m2\repository\commons-cli\commons-cli\1.2\commons-cli-1.2.jar;C:\Users\kouchtar\.m2\repository\commons-io\commons-io\1.3.2\commons-io-1.3.2.jar;C:\Users\kouchtar\.m2\repository\org\apache\httpcomponents\httpclient\4.3.4\httpclient-4.3.4.jar;C:\Users\kouchtar\.m2\repository\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\kouchtar\.m2\repository\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\kouchtar\.m2\repository\commons-codec\commons-codec\1.6\commons-codec-1.6.jar;C:\Users\kouchtar\.m2\repository\org\reflections\reflections\0.9.8\reflections-0.9.8.jar;C:\Users\kouchtar\.m2\repository\com\google\guava\guava\11.0.2\guava-11.0.2.jar;C:\Users\kouchtar\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\kouchtar\.m2\repository\javassist\javassist\3.12.1.GA\javassist-3.12.1.GA.jar;C:\Users\kouchtar\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\kouchtar\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Users\kouchtar\.m2\repository\org\codehaus\groovy\groovy-all\2.4.5\groovy-all-2.4.5.jar;C:\Users\kouchtar\.m2\repository\org\slf4j\slf4j-log4j12\1.5.6\slf4j-log4j12-1.5.6.jar;C:\Users\kouchtar\.m2\repository\org\slf4j\slf4j-api\1.5.6\slf4j-api-1.5.6.jar;C:\Users\kouchtar\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.47\bcprov-jdk15on-1.47.jar;C:\Users\kouchtar\.m2\repository\wsdl4j\wsdl4j\1.6.2\wsdl4j-1.6.2.jar;C:\Users\kouchtar\.m2\repository\org\apache\flex\blazeds\flex-messaging-core\4.7.1\flex-messaging-core-4.7.1.jar;C:\Users\kouchtar\.m2\repository\org\apache\flex\blazeds\flex-messaging-common\4.7.1\flex-messaging-common-4.7.1.jar;C:\Users\kouchtar\.m2\repository\xalan\xalan\2.6.0\xalan-2.6.0.jar;C:\Users\kouchtar\.m2\repository\xmlunit\xmlunit\1.4\xmlunit-1.4.jar;C:\Users\kouchtar\.m2\repository\commons-collections\commons-collections\3.1\commons-collections-3.1.jar;C:\Users\kouchtar\.m2\repository\commons-lang\commons-lang\2.1\commons-lang-2.1.jar;C:\Users\kouchtar\.m2\repository\javax\mail\mail\1.4\mail-1.4.jar;C:\Users\kouchtar\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar;C:\Users\kouchtar\.m2\repository\commons-beanutils\commons-beanutils\1.7.0\commons-beanutils-1.7.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\kouchtar"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_171\jre"/>
+    <property name="basedir" value="C:\Users\kouchtar\eclipse-workspace\MySOAPProject"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\kouchtar\AppData\Local\Temp\surefire7770630737455910635\surefirebooter2273306991374501381.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_171\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_171\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_171-b11"/>
+    <property name="user.name" value="kouchtar"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_171\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\kouchtar\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\kouchtar\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_171"/>
+    <property name="user.dir" value="C:\Users\kouchtar\eclipse-workspace\MySOAPProject"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_171\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/kouchtar/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657/jre/bin/server;C:/Users/kouchtar/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657/jre/bin;C:\Python310\Scripts\;C:\Python310\;C:\Python39\Scripts\;C:\Python39\;C:\Program Files\apache-maven-3.6.3\bin;C:\Program Files\apache-maven-3.6.3\bin;C:\Program Files\Java\jdk1.8.0_171\bin;C:\Users\kouchtar\AppData\Local\Android\Sdk\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\GNU\GnuPG\pub;C:\Program Files\nodejs\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Users\kouchtar\AppData\Local\Microsoft\WindowsApps;C:\Users\kouchtar\AppData\Roaming\npm;C:\Users\kouchtar\AppData\Local\Programs\Git\cmd;C:\Users\kouchtar\Desktop;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.171-b11"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="test2" classname="org.eql.MySOAPProject.MySOAPTest" time="4.488">
+    <system-out><![CDATA[********** DEBUT DU TEST 2 **********
+********** Creer une nouvelle instance de WsdlProject en specifiant le chemin absolu du projet SoapUI **********
+16:18:00,870 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\kouchtar\soapui-settings.xml]
+16:18:02,505 INFO  [PluginManager] 0 plugins loaded in 2 ms
+16:18:02,505 INFO  [DefaultSoapUICore] All plugins loaded
+16:18:03,258 INFO  [WsdlProject] Loaded project from [file:/C:/Users/kouchtar/eclipse-workspace/MySOAPProject/src/test/resources/Projet-SOAP-TP-soapui-project.xml]
+********** Recupere tous les TestSuites inclus dans le projet SoapUI **********
+********** Iteration sur tous les TestSuites du projet **********
+*********** Running TestSuite ***********
+*********** Running FindPerson TestCase ***********
+16:18:03,606 DEBUG [HttpClientSupport$SoapUIHttpClient] Attempt 1 to execute request
+16:18:03,606 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Sending request: POST /csp/samples/SOAP.Demo.cls HTTP/1.1
+16:18:03,816 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Receiving response: HTTP/1.1 200 OK
+16:18:03,837 DEBUG [HttpClientSupport$SoapUIHttpClient] Connection can be kept alive indefinitely
+Progress: 1 - Loading Definition from cache
+16:18:03,930 DEBUG [AbstractDefinitionContext] Loading Definition...
+16:18:03,947 DEBUG [WsdlInterfaceDefinition] Loading WSDL: https://www.crcind.com/csp/samples/SOAP.Demo.CLS?WSDL=1
+16:18:03,948 DEBUG [AbstractWsdlDefinitionLoader] Returning baseInputSource [https://www.crcind.com/csp/samples/SOAP.Demo.CLS?WSDL=1]
+Retrieving document at 'https://www.crcind.com/csp/samples/SOAP.Demo.CLS?WSDL=1'.
+Retrieving schema at 'https://www.crcind.com:443/csp/samples/SOAP.ByNameDataSet.cls?XSD', relative to 'https://www.crcind.com/csp/samples/SOAP.Demo.CLS?WSDL=1'.
+16:18:04,068 DEBUG [AbstractWsdlDefinitionLoader] Returning latest import URI [https://www.crcind.com:443/csp/samples/SOAP.ByNameDataSet.cls?XSD]
+Retrieving schema at 'https://www.crcind.com:443/csp/samples/SOAP.Demo.QueryByName.DS.cls?XSD', relative to 'https://www.crcind.com/csp/samples/SOAP.Demo.CLS?WSDL=1'.
+16:18:04,071 DEBUG [AbstractWsdlDefinitionLoader] Returning latest import URI [https://www.crcind.com:443/csp/samples/SOAP.Demo.QueryByName.DS.cls?XSD]
+16:18:04,092 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.4.0/bin/soapui-5.4.0.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+16:18:04,109 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.4.0/bin/soapui-5.4.0.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+16:18:04,111 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.4.0/bin/soapui-5.4.0.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+16:18:04,112 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.4.0/bin/soapui-5.4.0.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+16:18:04,114 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.4.0/bin/soapui-5.4.0.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+16:18:04,115 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.4.0/bin/soapui-5.4.0.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+16:18:04,118 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.4.0/bin/soapui-5.4.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+16:18:04,122 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.4.0/bin/soapui-5.4.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+16:18:04,123 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.4.0/bin/soapui-5.4.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+16:18:04,127 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.4.0/bin/soapui-5.4.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+16:18:04,128 INFO  [SchemaUtils] Loading schema types from [https://www.crcind.com/csp/samples/SOAP.Demo.CLS?WSDL=1]
+16:18:04,128 INFO  [SchemaUtils] Getting schema https://www.crcind.com/csp/samples/SOAP.Demo.CLS?WSDL=1
+16:18:04,148 INFO  [SchemaUtils] Getting schema https://www.crcind.com:443/csp/samples/SOAP.ByNameDataSet.cls?XSD
+16:18:04,149 INFO  [SchemaUtils] Getting schema https://www.crcind.com:443/csp/samples/SOAP.Demo.QueryByName.DS.cls?XSD
+16:18:04,478 DEBUG [AbstractDefinitionContext] Loaded Definition: ok
+********** LE TEST FindPerson TestCase S'EST TERMINE AVEC SUCCES **********
+*********** Running GetByName TestCase ***********
+16:18:04,520 DEBUG [HttpClientSupport$SoapUIHttpClient] Stale connection check
+16:18:04,537 DEBUG [HttpClientSupport$SoapUIHttpClient] Attempt 1 to execute request
+16:18:04,537 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Sending request: POST /csp/samples/SOAP.Demo.cls HTTP/1.1
+16:18:04,584 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Receiving response: HTTP/1.1 200 OK
+16:18:04,585 DEBUG [HttpClientSupport$SoapUIHttpClient] Connection can be kept alive indefinitely
+********** LE TEST GetByName TestCase S'EST TERMINE AVEC SUCCES **********
+********** FIN DU TEST 2 **********
+]]></system-out>
+    <system-err><![CDATA[SLF4J: The requested version 1.6 by your slf4j binding is not compatible with [1.5.5, 1.5.6]
+SLF4J: See http://www.slf4j.org/codes.html#version_mismatch for further details.
+]]></system-err>
+  </testcase>
+</testsuite>
